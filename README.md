@@ -96,28 +96,51 @@ Python-Programming/
 
 # 📈 Progress
 
-### 🟢 Basic
+# 🐍 Python Programming
 
-```text
-████████░░░░░░░░░░  0%
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Programming+Practice;Basic+%7C+Intermediate+%7C+Advanced;Learn+%7C+Practice+%7C+Improve" />
+</p>
 
-**Problems Solved: 0**
+<p align="center">
+  A structured collection of Python programming questions and solutions.
+</p>
 
-### 🟡 Intermediate
+---
 
-```text
-████████░░░░░░░░░░  0%
-```
+## 📚 Levels
 
-**Problems Solved: 0**
+| Level | Focus |
+|:---:|---|
+| 🟢 **Basic** | Python fundamentals & core concepts |
+| 🟡 **Intermediate** | Problem solving & practical programming |
+| 🔴 **Advanced** | Advanced Python & complex problems |
 
-### 🔴 Advanced
+---
 
-```text
-████████░░░░░░░░░░  0%
-```
+## 📊 Problem Tracking
 
+> **Note:** This table is updated as new problems are solved.
+
+| # | Problem | Level | Topic | Status |
+|---:|---|:---:|---|:---:|
+| — | No problems added yet | — | — | ⏳ |
+
+**Total Problems Solved: 0**
+
+---
+
+## 🎯 Goal
+
+Build strong Python fundamentals, improve problem-solving skills, and progress from **Basic → Intermediate → Advanced** programming.
+
+> **Learn. Practice. Solve. Improve. 🚀**
+
+---
+
+### 🐍 Python
+
+`Python` · `Git` · `GitHub` · `VS Code`
 **Problems Solved: 0**
 
 ### 🏆 Total Progress
