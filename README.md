@@ -112,27 +112,44 @@ Python-Programming/
 
 | Level | Focus |
 |:---:|---|
-| 🟢 **Basic** | Python fundamentals & core concepts |
+| 🟢 **Basic** | Fundamentals & core Python |
 | 🟡 **Intermediate** | Problem solving & practical programming |
-| 🔴 **Advanced** | Advanced Python & complex problems |
+| 🔴 **Advanced** | Advanced concepts & complex problems |
 
 ---
 
 ## 📊 Problem Tracking
 
-> **Note:** This table is updated as new problems are solved.
+> 📌 Updated continuously as new problems are solved.
 
 | # | Problem | Level | Topic | Status |
 |---:|---|:---:|---|:---:|
 | — | No problems added yet | — | — | ⏳ |
 
-**Total Problems Solved: 0**
+---
+
+## 📈 Progress
+
+<div align="center">
+
+| 🟢 Basic | 🟡 Intermediate | 🔴 Advanced |
+|:---:|:---:|:---:|
+| **0 Solved** | **0 Solved** | **0 Solved** |
+| 0 Problems | 0 Problems | 0 Problems |
+
+### 🏆 Total Progress
+
+**0 Python Problems Solved**
+
+`Basic → Intermediate → Advanced`
+
+</div>
 
 ---
 
 ## 🎯 Goal
 
-Build strong Python fundamentals, improve problem-solving skills, and progress from **Basic → Intermediate → Advanced** programming.
+Progress from **Basic → Intermediate → Advanced** while building strong Python fundamentals and problem-solving skills.
 
 > **Learn. Practice. Solve. Improve. 🚀**
 
